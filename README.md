@@ -8,8 +8,8 @@ teamwork and a strong willingness to learn. Enthusiastic about collaborating on 
 gaining new skills, and contributing to meaningful data-driven solutions. 
 
 ## 🏆 Key Projects
-- **[Project Name](Link to project)**: Brief description of the project.
-- **[Project Name](Link to project)**: Brief description of the project.
+- **[ Cardio Insights ]
+- **[ Telecom Customer Churn ]
 
 ## 🛠 Skills and Technologies
 Programming & Analytics Tools
